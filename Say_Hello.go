@@ -1,5 +1,5 @@
 package MY_GoMod
 
 func SayHello() string {
-	return "Hello"
+	return "Hello World"
 }
