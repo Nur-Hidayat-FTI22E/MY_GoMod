@@ -1,8 +1,8 @@
 # MY_GoMod
 
-- add mod
-go mod init <link>
-
-- add tag in git
-git tag v1.0.0
-git push <remote> v1.0.0
+- add mod<br>
+go mod init <.link><br>
+<br>
+- add tag in git <br>
+git tag v1.0.0<br>
+git push <.remote> v1.0.0<br>
